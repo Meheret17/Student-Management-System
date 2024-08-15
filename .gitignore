@@ -1,0 +1,26 @@
+# Python
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editor files
+.idea/
+.vscode/
+
+# Database
+*.sqlite3
+*.db
+*.db-journal
+
+# Other
+.DS_Store
